@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @PyatinIS
+- 👀 I am interested in working with the ALINX AXU2CGB board. I cannot find and install the Vivado and Vitis programs, as well as the documentation and examples.
